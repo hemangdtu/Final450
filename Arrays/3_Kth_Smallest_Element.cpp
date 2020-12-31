@@ -1,3 +1,5 @@
+// Writa a program to find the kth maximum and minimum element of an array.
+
 #include <bits/stdc++.h>
 using namespace std;
 
